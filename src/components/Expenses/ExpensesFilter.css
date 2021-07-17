@@ -1,9 +1,6 @@
 .expenses-filter {
-  color: Yellow;
+  color: white;
   padding: 0 1rem;
-}
-.color{
-   color:red;
 }
 
 .expenses-filter__control {
@@ -16,7 +13,6 @@
 
 .expenses-filter label {
   font-weight: bold;
-  font-color:white;
   margin-bottom: 0.5rem;
 }
 
